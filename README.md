@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umayal M</h1>
+<h1 align="center">Hello 👋, This is Umayal </h1>
 <h3 align="center">An aspiring frontend developer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umayal-26" alt="umayal-26" /></a> </p>
 
